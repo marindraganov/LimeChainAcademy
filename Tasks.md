@@ -1,9 +1,11 @@
 #### Intro to Blockchain
 **What is a transaction?** - Transaction is an action or bundle of actions. Transactions are our way to apply
 changes over the blockchain.
+
 **What is the approximate time of every Ethereum transaction?** - It is hard to say because it depends on many factors. Block size, the interval
 between blocks, the number of the transactions competing for execution, priority of the transaction based on different fees or tips are
 the most important factors.
+
 **What is a node?** - A node is one of the many actors(also nodes) in the network that process transactions.
 Processing transactions is basically validating them according to the blockchain rules and the current blockchain state.
 The nodes are also bundling transactions and submitting them to the network as blocks. The rules for submitting and validating the
