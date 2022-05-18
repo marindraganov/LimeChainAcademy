@@ -22,7 +22,7 @@ blocks are called consensus algorithms.
 
 ### Solidity & Smart Contracts 101
 
-####Learning Solidity
+#### Learning Solidity
 
 *What is delegatecall?* - delegatecall executes a function from an onether contract in the context of current contract.
 Could be used to inject different logic in the contract. https://github.com/marindraganov/LimeChainAcademy/blob/main/TasksFiles/BonusSystem.sol
