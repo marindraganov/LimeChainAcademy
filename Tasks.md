@@ -32,3 +32,18 @@ https://github.com/marindraganov/LimeChainAcademy/blob/main/TasksFiles/Orders.so
 
 *What is time lock?* - Timelock is a mechanism to queue transactions and execute them with a delay.
 https://github.com/marindraganov/LimeChainAcademy/blob/main/TasksFiles/StakingPool.sol
+
+#### Hardhat
+
+*Create a Hardhat project for your Book Library contracts and put it in a Github repository.* - https://github.com/marindraganov/Library_WithTests
+*Read about OpenZeppelin and modify the contract to use OpenZeppelin Ownable instead of your own* - done
+*Modify the scripts and deploy them on Hardhat local node.*  - done
+*Add configuration for deployment on Rinkeby. Note and save your deployed contract address.*  - 0x5A725E734279BAFaA159BfAD0384f364De851881
+*Implement testing scenarios for the Book Library contract* - done
+*Think about more use cases to cover in the tests* - done
+*Run Solidity Coverage Report* - done
+*Try to hit 100% coverage for your Smart Contract* - done
+*Create Hardhat tasks for deployment* - done
+*Create subtasks for printing valuable info after deployment* - done
+*Read any sensitive data (account private keys, API key and etc. from .env file)*  - done
+*Add to the deployment tasks subtasks for Etherscan verification of the contracts* - done
