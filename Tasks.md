@@ -64,3 +64,11 @@ https://github.com/marindraganov/LimeChainAcademy/blob/main/TasksFiles/StakingPo
 *Read any sensitive data (account private keys, API key and etc. from .env file)*  - done
 
 *Add to the deployment tasks subtasks for Etherscan verification of the contracts* - done
+
+### Ethers.js Contract Interactions
+
+*Interact with the Book Library contract running on the local node (Creates a book, Checks all available books, Rents a book, Checks that it is rented, Returns the book, Checks the availability of the book)*
+https://github.com/marindraganov/Library_WithTests/blob/master/scripts/interact.js
+
+*Interact with the Library contract on Rinkeby*
+https://github.com/marindraganov/Library_WithTests/blob/master/scripts/interact-rinkeby.js
