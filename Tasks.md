@@ -72,3 +72,7 @@ https://github.com/marindraganov/Library_WithTests/blob/master/scripts/interact.
 
 *Interact with the Library contract on Rinkeby*
 https://github.com/marindraganov/Library_WithTests/blob/master/scripts/interact-rinkeby.js
+
+### Web3 FE dApp
+*Task 1: Improve the US election webapp* - https://github.com/marindraganov/NextJsEthDApp
+*Task 2: Create Book Library contract webapp* - https://github.com/marindraganov/NextJsEthDApp/tree/feature/Library 
